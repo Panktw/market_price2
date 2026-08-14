@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 忽略 Python 腳本本身
+update_market.py
+
+# 忽略虛擬環境資料夾
+.venv/
+__pycache__/
+
+# 忽略排程產生的日誌檔
+cron_log.log
