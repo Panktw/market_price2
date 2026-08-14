@@ -1,0 +1,147 @@
+{
+  "last_updated": "2026-08-14T06:50:58.375387Z",
+  "stocks": [
+    {
+      "symbol": "TSLA",
+      "name": "TSLA",
+      "market_cap": 0,
+      "price": 339.96,
+      "rank": 1
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVDA",
+      "market_cap": 0,
+      "price": 225.3,
+      "rank": 2
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MSFT",
+      "market_cap": 0,
+      "price": 496.88,
+      "rank": 3
+    },
+    {
+      "symbol": "META",
+      "name": "META",
+      "market_cap": 0,
+      "price": 594.97,
+      "rank": 4
+    },
+    {
+      "symbol": "LLY",
+      "name": "LLY",
+      "market_cap": 0,
+      "price": 1209,
+      "rank": 5
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "GOOGL",
+      "market_cap": 0,
+      "price": 346.36,
+      "rank": 6
+    },
+    {
+      "symbol": "BRK.A",
+      "name": "BRK.A",
+      "market_cap": 0,
+      "price": 762000,
+      "rank": 7
+    },
+    {
+      "symbol": "AVGO",
+      "name": "AVGO",
+      "market_cap": 0,
+      "price": 417.82,
+      "rank": 8
+    },
+    {
+      "symbol": "AMZN",
+      "name": "AMZN",
+      "market_cap": 0,
+      "price": 265.13,
+      "rank": 9
+    },
+    {
+      "symbol": "AAPL",
+      "name": "AAPL",
+      "market_cap": 0,
+      "price": 305.26,
+      "rank": 10
+    }
+  ],
+  "crypto": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "market_cap": 0,
+      "price": 63188.52,
+      "rank": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "market_cap": 0,
+      "price": 1876.71,
+      "rank": 2
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "market_cap": 0,
+      "price": 608.79,
+      "rank": 3
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "market_cap": 0,
+      "price": 75.66,
+      "rank": 4
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "market_cap": 0,
+      "price": 1.0085,
+      "rank": 5
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "market_cap": 0,
+      "price": 0.1825,
+      "rank": 6
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "market_cap": 0,
+      "price": 6.394,
+      "rank": 7
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "market_cap": 0,
+      "price": 0.761,
+      "rank": 8
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "market_cap": 0,
+      "price": 0.06981,
+      "rank": 9
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "market_cap": 0,
+      "price": 8.768,
+      "rank": 10
+    }
+  ]
+}
