@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T22:49:00.254829Z",
+  "last_updated": "2026-08-15T22:54:29.037521Z",
   "stocks": [
     {
       "symbol": "XOM",
@@ -168,134 +168,141 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "market_cap": 0,
-      "price": 63174.96,
+      "price": 63138.0,
       "rank": 1
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "market_cap": 0,
-      "price": 1885.5,
+      "price": 1884.82,
       "rank": 2
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether",
+      "market_cap": 0,
+      "price": 0.99919,
+      "rank": 3
     },
     {
       "symbol": "BNB",
       "name": "BNB",
       "market_cap": 0,
-      "price": 609.59,
-      "rank": 3
+      "price": 609.45,
+      "rank": 4
     },
     {
       "symbol": "SOL",
       "name": "Solana",
       "market_cap": 0,
-      "price": 75.66,
-      "rank": 4
+      "price": 75.63,
+      "rank": 5
     },
     {
       "symbol": "USDC",
       "name": "USDC",
       "market_cap": 0,
-      "price": 1.00095,
-      "rank": 5
+      "price": 1.00014,
+      "rank": 6
     },
     {
       "symbol": "XRP",
       "name": "XRP",
       "market_cap": 0,
-      "price": 1.0056,
-      "rank": 6
+      "price": 1.0048,
+      "rank": 7
     },
     {
       "symbol": "DOGE",
       "name": "Dogecoin",
       "market_cap": 0,
-      "price": 0.06998,
-      "rank": 7
+      "price": 0.0699,
+      "rank": 8
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
       "market_cap": 0,
-      "price": 0.1777,
-      "rank": 8
+      "price": 0.1775,
+      "rank": 9
     },
     {
       "symbol": "TRX",
       "name": "TRON",
       "market_cap": 0,
-      "price": 0.3315,
-      "rank": 9
+      "price": 0.3314,
+      "rank": 10
     },
     {
       "symbol": "AVAX",
       "name": "Avalanche",
       "market_cap": 0,
-      "price": 6.414,
-      "rank": 10
+      "price": 6.398,
+      "rank": 11
     },
     {
       "symbol": "SHIB",
       "name": "Shiba Inu",
       "market_cap": 0,
-      "price": 4.55e-06,
-      "rank": 11
+      "price": 4.54e-06,
+      "rank": 12
     },
     {
       "symbol": "TON",
       "name": "Toncoin",
       "market_cap": 0,
       "price": 1.6,
-      "rank": 12
+      "rank": 13
     },
     {
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
       "market_cap": 0,
-      "price": 63192.93,
-      "rank": 13
+      "price": 63158.64,
+      "rank": 14
     },
     {
       "symbol": "DOT",
       "name": "Polkadot",
       "market_cap": 0,
       "price": 0.768,
-      "rank": 14
+      "rank": 15
     },
     {
       "symbol": "LINK",
       "name": "Chainlink",
       "market_cap": 0,
-      "price": 9.538,
-      "rank": 15
+      "price": 9.524,
+      "rank": 16
     },
     {
       "symbol": "SUI",
       "name": "Sui",
       "market_cap": 0,
-      "price": 0.6814,
-      "rank": 16
+      "price": 0.6807,
+      "rank": 17
     },
     {
       "symbol": "LTC",
       "name": "Litecoin",
       "market_cap": 0,
-      "price": 44.18,
-      "rank": 17
+      "price": 44.17,
+      "rank": 18
     },
     {
       "symbol": "NEAR",
       "name": "NEAR Protocol",
       "market_cap": 0,
-      "price": 1.637,
-      "rank": 18
+      "price": 1.636,
+      "rank": 19
     },
     {
       "symbol": "BCH",
       "name": "Bitcoin Cash",
       "market_cap": 0,
-      "price": 204.0,
-      "rank": 19
+      "price": 203.7,
+      "rank": 20
     }
   ]
 }
