@@ -219,6 +219,7 @@ __marimo__/
 
 # 忽略 Python 腳本本身
 update_market.py
+tw_stock.py
 
 # 忽略虛擬環境資料夾
 .venv/
