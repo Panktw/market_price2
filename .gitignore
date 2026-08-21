@@ -227,3 +227,6 @@ __pycache__/
 
 # 忽略排程產生的日誌檔
 cron_log.log
+
+#忽略csv
+stock_day_avg_latest.csv
