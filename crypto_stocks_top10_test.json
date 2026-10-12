@@ -1,0 +1,49 @@
+{
+  "last_updated": "2026-10-12T21:15:18.878+08:00",
+  "stocks": [
+    {
+      "symbol": "NVDA",
+      "name": "NVDA",
+      "market_cap": 0,
+      "price": 229.28,
+      "rank": 1
+    },
+    {
+      "symbol": "MSFT",
+      "name": "MSFT",
+      "market_cap": 0,
+      "price": 535.07,
+      "rank": 2
+    },
+    {
+      "symbol": "AAPL",
+      "name": "AAPL",
+      "market_cap": 0,
+      "price": 336.64,
+      "rank": 3
+    }
+  ],
+  "crypto": [
+    {
+      "symbol": "BTC",
+      "name": "BTC",
+      "market_cap": 0,
+      "price": 82580.01,
+      "rank": 1
+    },
+    {
+      "symbol": "ETH",
+      "name": "ETH",
+      "market_cap": 0,
+      "price": 2527.46,
+      "rank": 2
+    },
+    {
+      "symbol": "SOL",
+      "name": "SOL",
+      "market_cap": 0,
+      "price": 110.16,
+      "rank": 3
+    }
+  ]
+}
