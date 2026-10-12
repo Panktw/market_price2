@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T21:15:18.878+08:00",
+  "last_updated": "2026-10-12T21:19:22.316+08:00",
   "stocks": [
     {
       "symbol": "NVDA",
@@ -28,21 +28,21 @@
       "symbol": "BTC",
       "name": "BTC",
       "market_cap": 0,
-      "price": 82580.01,
+      "price": 82623.27,
       "rank": 1
     },
     {
       "symbol": "ETH",
       "name": "ETH",
       "market_cap": 0,
-      "price": 2527.46,
+      "price": 2528.63,
       "rank": 2
     },
     {
       "symbol": "SOL",
       "name": "SOL",
       "market_cap": 0,
-      "price": 110.16,
+      "price": 110.23,
       "rank": 3
     }
   ]
