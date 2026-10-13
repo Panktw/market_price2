@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T06:24:00.826+08:00",
+  "last_updated": "2026-10-14T06:44:01.409+08:00",
   "stocks": [
     {
       "symbol": "MSFT",
@@ -14,21 +14,21 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "market_cap": 0,
-      "price": 83438.0,
+      "price": 83508.4,
       "rank": 1
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "market_cap": 0,
-      "price": 2510.24,
+      "price": 2511.83,
       "rank": 2
     },
     {
       "symbol": "ADA",
       "name": "Cardano",
       "market_cap": 0,
-      "price": 0.2367,
+      "price": 0.2369,
       "rank": 3
     }
   ]
