@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T10:18:30.022+08:00",
+  "last_updated": "2026-10-13T10:34:57.684+08:00",
   "stocks": [
     {
       "symbol": "MSFT",
@@ -21,14 +21,14 @@
       "symbol": "BTC",
       "name": "Bitcoin",
       "market_cap": 0,
-      "price": 82740.0,
+      "price": 82724.39,
       "rank": 1
     },
     {
       "symbol": "ETH",
       "name": "Ethereum",
       "market_cap": 0,
-      "price": 2476.6,
+      "price": 2480.65,
       "rank": 2
     }
   ]
