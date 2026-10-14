@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-10-14T17:20:17.941+08:00",
+  "last_updated": "2026-10-14T17:20:31.558+08:00",
   "stocks": [
     {
-      "symbol": "XYZ",
-      "name": "XYZ",
+      "symbol": "XOM",
+      "name": "XOM",
       "market_cap": 0,
-      "price": 76.86,
+      "price": 174.08,
       "rank": 1
     },
     {
@@ -16,117 +16,124 @@
       "rank": 2
     },
     {
-      "symbol": "VOO",
-      "name": "VOO",
+      "symbol": "UNH",
+      "name": "UNH",
       "market_cap": 0,
-      "price": 715.2,
+      "price": 377.76,
       "rank": 3
-    },
-    {
-      "symbol": "V",
-      "name": "V",
-      "market_cap": 0,
-      "price": 396.06,
-      "rank": 4
-    },
-    {
-      "symbol": "SCHD",
-      "name": "SCHD",
-      "market_cap": 0,
-      "price": 33.37,
-      "rank": 5
     },
     {
       "symbol": "NVO",
       "name": "NVO",
       "market_cap": 0,
       "price": 38.06,
-      "rank": 6
+      "rank": 4
     },
     {
       "symbol": "MSFT",
       "name": "MSFT",
       "market_cap": 0,
       "price": 543.45,
+      "rank": 5
+    },
+    {
+      "symbol": "META",
+      "name": "META",
+      "market_cap": 0,
+      "price": 762.5,
+      "rank": 6
+    },
+    {
+      "symbol": "MAGS",
+      "name": "MAGS",
+      "market_cap": 0,
+      "price": 74.3,
       "rank": 7
     },
     {
-      "symbol": "CRCL",
-      "name": "CRCL",
+      "symbol": "HD",
+      "name": "HD",
       "market_cap": 0,
-      "price": 84.27,
+      "price": 293.92,
       "rank": 8
     },
     {
-      "symbol": "COIN",
-      "name": "COIN",
+      "symbol": "GLDM",
+      "name": "GLDM",
       "market_cap": 0,
-      "price": 181.79,
+      "price": 82.36,
       "rank": 9
+    },
+    {
+      "symbol": "CLSK",
+      "name": "CLSK",
+      "market_cap": 0,
+      "price": 10.15,
+      "rank": 10
     },
     {
       "symbol": "ASML",
       "name": "ASML",
       "market_cap": 0,
       "price": 1717.76,
-      "rank": 10
+      "rank": 11
     },
     {
       "symbol": "ARKG",
       "name": "ARKG",
       "market_cap": 0,
       "price": 48.51,
-      "rank": 11
+      "rank": 12
     },
     {
       "symbol": "AMD",
       "name": "AMD",
       "market_cap": 0,
       "price": 605.53,
-      "rank": 12
+      "rank": 13
     }
   ],
   "crypto": [
     {
-      "symbol": "USDT",
-      "name": "Tether",
+      "symbol": "ETH",
+      "name": "Ethereum",
       "market_cap": 0,
-      "price": 0.99882,
+      "price": 2506.2,
       "rank": 1
     },
     {
-      "symbol": "SOL",
-      "name": "Solana",
+      "symbol": "ADA",
+      "name": "Cardano",
       "market_cap": 0,
-      "price": 107.21,
+      "price": 0.2354,
       "rank": 2
     },
     {
-      "symbol": "TRX",
-      "name": "TRON",
+      "symbol": "XRP",
+      "name": "XRP",
       "market_cap": 0,
-      "price": 0.3331,
+      "price": 1.3724,
       "rank": 3
     },
     {
-      "symbol": "TON",
-      "name": "Toncoin",
+      "symbol": "AVAX",
+      "name": "Avalanche",
       "market_cap": 0,
-      "price": 1.6,
+      "price": 10.202,
       "rank": 4
-    },
-    {
-      "symbol": "LINK",
-      "name": "Chainlink",
-      "market_cap": 0,
-      "price": 12.959,
-      "rank": 5
     },
     {
       "symbol": "SUI",
       "name": "Sui",
       "market_cap": 0,
       "price": 1.0527,
+      "rank": 5
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "market_cap": 0,
+      "price": 61.65,
       "rank": 6
     },
     {
