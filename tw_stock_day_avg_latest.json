@@ -1,698 +1,698 @@
 {
-     "last_updated": "2026-11-02T22:01:54.737+08:00",
+     "last_updated": "2026-11-03T17:16:46.510+08:00",
      "tw_stocks": [
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "0050",
                "name": "元大台灣50",
-               "price": "104.95",
-               "mavg_price": "110.80"
+               "price": "104.10",
+               "mavg_price": "104.10"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "0056",
                "name": "元大高股息",
-               "price": "55.85",
-               "mavg_price": "57.76"
+               "price": "55.75",
+               "mavg_price": "55.75"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "006208",
                "name": "富邦台50",
-               "price": "240.75",
-               "mavg_price": "253.83"
+               "price": "238.65",
+               "mavg_price": "238.65"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "00878",
                "name": "國泰永續高股息",
-               "price": "34.81",
-               "mavg_price": "35.20"
+               "price": "34.80",
+               "mavg_price": "34.80"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "00919",
                "name": "群益台灣精選高息",
-               "price": "32.59",
-               "mavg_price": "32.27"
+               "price": "32.48",
+               "mavg_price": "32.48"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "00929",
                "name": "復華台灣科技優息",
-               "price": "27.67",
-               "mavg_price": "29.49"
+               "price": "27.60",
+               "mavg_price": "27.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "00940",
                "name": "元大台灣價值高息",
-               "price": "13.08",
-               "mavg_price": "13.31"
+               "price": "13.00",
+               "mavg_price": "13.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "009816",
                "name": "凱基台灣TOP50",
-               "price": "15.67",
-               "mavg_price": "16.39"
+               "price": "15.56",
+               "mavg_price": "15.56"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1101",
                "name": "台泥",
-               "price": "28.35",
-               "mavg_price": "26.74"
+               "price": "28.10",
+               "mavg_price": "28.10"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1102",
                "name": "亞泥",
-               "price": "38.05",
-               "mavg_price": "37.12"
+               "price": "38.10",
+               "mavg_price": "38.10"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1216",
                "name": "統一",
-               "price": "80.20",
-               "mavg_price": "77.30"
+               "price": "80.60",
+               "mavg_price": "80.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1301",
                "name": "台塑",
-               "price": "72.50",
-               "mavg_price": "75.96"
+               "price": "73.10",
+               "mavg_price": "73.10"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1303",
                "name": "南亞",
-               "price": "296.00",
-               "mavg_price": "302.89"
+               "price": "301.00",
+               "mavg_price": "301.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1326",
                "name": "台化",
-               "price": "72.50",
-               "mavg_price": "75.18"
+               "price": "73.60",
+               "mavg_price": "73.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1402",
                "name": "遠東新",
-               "price": "28.25",
-               "mavg_price": "28.57"
+               "price": "28.55",
+               "mavg_price": "28.55"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1503",
                "name": "士電",
                "price": "185.50",
-               "mavg_price": "195.26"
+               "mavg_price": "185.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1504",
                "name": "東元",
-               "price": "69.10",
-               "mavg_price": "70.04"
+               "price": "69.30",
+               "mavg_price": "69.30"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1605",
                "name": "華新",
-               "price": "35.95",
-               "mavg_price": "38.19"
+               "price": "37.60",
+               "mavg_price": "37.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "1802",
                "name": "台玻",
-               "price": "62.30",
-               "mavg_price": "63.77"
+               "price": "63.70",
+               "mavg_price": "63.70"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2002",
                "name": "中鋼",
-               "price": "19.25",
-               "mavg_price": "19.31"
+               "price": "19.40",
+               "mavg_price": "19.40"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2059",
                "name": "川湖",
-               "price": "9650.00",
-               "mavg_price": "10658.16"
+               "price": "9420.00",
+               "mavg_price": "9420.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2105",
                "name": "正新",
-               "price": "31.30",
-               "mavg_price": "31.19"
+               "price": "31.40",
+               "mavg_price": "31.40"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2207",
                "name": "和泰車",
-               "price": "534.00",
-               "mavg_price": "530.16"
+               "price": "536.00",
+               "mavg_price": "536.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2301",
                "name": "光寶科",
-               "price": "240.50",
-               "mavg_price": "273.24"
+               "price": "243.50",
+               "mavg_price": "243.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2302",
                "name": "麗正",
-               "price": "41.00",
-               "mavg_price": "45.63"
+               "price": "42.10",
+               "mavg_price": "42.10"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2303",
                "name": "聯電",
-               "price": "111.50",
-               "mavg_price": "137.05"
+               "price": "110.00",
+               "mavg_price": "110.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2308",
                "name": "台達電",
-               "price": "1335.00",
-               "mavg_price": "1727.89"
+               "price": "1355.00",
+               "mavg_price": "1355.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2317",
                "name": "鴻海",
-               "price": "245.50",
-               "mavg_price": "247.13"
+               "price": "251.00",
+               "mavg_price": "251.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2324",
                "name": "仁寶",
-               "price": "35.20",
-               "mavg_price": "36.52"
+               "price": "34.75",
+               "mavg_price": "34.75"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2327",
                "name": "國巨*",
-               "price": "502.00",
-               "mavg_price": "578.00"
+               "price": "498.50",
+               "mavg_price": "498.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2330",
                "name": "台積電",
-               "price": "2370.00",
-               "mavg_price": "2469.74"
+               "price": "2330.00",
+               "mavg_price": "2330.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2345",
                "name": "智邦",
                "price": "1615.00",
-               "mavg_price": "1933.42"
+               "mavg_price": "1615.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2347",
                "name": "聯強",
-               "price": "99.50",
-               "mavg_price": "99.52"
+               "price": "94.50",
+               "mavg_price": "94.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2352",
                "name": "佳世達",
-               "price": "33.80",
-               "mavg_price": "29.58"
+               "price": "31.95",
+               "mavg_price": "31.95"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2353",
                "name": "宏碁",
-               "price": "30.40",
-               "mavg_price": "31.81"
+               "price": "30.30",
+               "mavg_price": "30.30"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2356",
                "name": "英業達",
-               "price": "59.50",
-               "mavg_price": "59.48"
+               "price": "59.60",
+               "mavg_price": "59.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2357",
                "name": "華碩",
-               "price": "906.00",
-               "mavg_price": "973.63"
+               "price": "912.00",
+               "mavg_price": "912.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2360",
                "name": "致茂",
-               "price": "1755.00",
-               "mavg_price": "2115.79"
+               "price": "1715.00",
+               "mavg_price": "1715.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2376",
                "name": "技嘉",
-               "price": "336.00",
-               "mavg_price": "359.18"
+               "price": "339.50",
+               "mavg_price": "339.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2377",
                "name": "微星",
-               "price": "157.50",
-               "mavg_price": "159.08"
+               "price": "156.50",
+               "mavg_price": "156.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2379",
                "name": "瑞昱",
-               "price": "803.00",
-               "mavg_price": "770.42"
+               "price": "785.00",
+               "mavg_price": "785.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2382",
                "name": "廣達",
                "price": "318.00",
-               "mavg_price": "325.08"
+               "mavg_price": "318.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2383",
                "name": "台光電",
-               "price": "4675.00",
-               "mavg_price": "5310.26"
+               "price": "4705.00",
+               "mavg_price": "4705.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2385",
                "name": "群光",
-               "price": "99.10",
-               "mavg_price": "103.41"
+               "price": "98.40",
+               "mavg_price": "98.40"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2395",
                "name": "研華",
-               "price": "680.00",
-               "mavg_price": "703.05"
+               "price": "655.00",
+               "mavg_price": "655.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2408",
                "name": "南亞科",
-               "price": "454.50",
-               "mavg_price": "478.24"
+               "price": "456.50",
+               "mavg_price": "456.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2409",
                "name": "友達",
-               "price": "30.65",
-               "mavg_price": "36.07"
+               "price": "30.75",
+               "mavg_price": "30.75"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2412",
                "name": "中華電",
-               "price": "160.00",
-               "mavg_price": "151.39"
+               "price": "159.50",
+               "mavg_price": "159.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2454",
                "name": "聯發科",
-               "price": "3915.00",
-               "mavg_price": "4433.68"
+               "price": "3970.00",
+               "mavg_price": "3970.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2474",
                "name": "可成",
-               "price": "193.00",
-               "mavg_price": "198.16"
+               "price": "193.50",
+               "mavg_price": "193.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2498",
                "name": "宏達電",
-               "price": "38.80",
-               "mavg_price": "40.88"
+               "price": "38.60",
+               "mavg_price": "38.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2603",
                "name": "長榮",
-               "price": "271.50",
-               "mavg_price": "253.42"
+               "price": "274.50",
+               "mavg_price": "274.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2609",
                "name": "陽明",
-               "price": "63.50",
-               "mavg_price": "61.97"
+               "price": "64.00",
+               "mavg_price": "64.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2610",
                "name": "華航",
-               "price": "20.15",
-               "mavg_price": "20.39"
+               "price": "20.65",
+               "mavg_price": "20.65"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2615",
                "name": "萬海",
-               "price": "120.00",
-               "mavg_price": "116.89"
+               "price": "119.50",
+               "mavg_price": "119.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2618",
                "name": "長榮航",
-               "price": "42.70",
-               "mavg_price": "42.47"
+               "price": "43.15",
+               "mavg_price": "43.15"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2801",
                "name": "彰銀",
-               "price": "30.70",
-               "mavg_price": "28.87"
+               "price": "30.85",
+               "mavg_price": "30.85"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2812",
                "name": "台中銀",
-               "price": "18.60",
-               "mavg_price": "18.67"
+               "price": "18.55",
+               "mavg_price": "18.55"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2834",
                "name": "臺企銀",
                "price": "18.05",
-               "mavg_price": "17.73"
+               "mavg_price": "18.05"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2845",
                "name": "遠東銀",
-               "price": "13.25",
+               "price": "13.15",
                "mavg_price": "13.15"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2880",
                "name": "華南金",
-               "price": "50.40",
-               "mavg_price": "48.11"
+               "price": "49.60",
+               "mavg_price": "49.60"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2881",
                "name": "富邦金",
-               "price": "161.50",
-               "mavg_price": "157.45"
+               "price": "159.50",
+               "mavg_price": "159.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2881A",
                "name": "富邦特",
                "price": "61.30",
-               "mavg_price": "61.38"
+               "mavg_price": "61.30"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2882",
                "name": "國泰金",
                "price": "116.00",
-               "mavg_price": "113.34"
+               "mavg_price": "116.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2883",
                "name": "凱基金",
-               "price": "37.80",
-               "mavg_price": "38.09"
+               "price": "37.25",
+               "mavg_price": "37.25"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2884",
                "name": "玉山金",
-               "price": "49.05",
-               "mavg_price": "47.47"
+               "price": "48.70",
+               "mavg_price": "48.70"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2885",
                "name": "元大金",
-               "price": "72.60",
-               "mavg_price": "70.87"
+               "price": "71.50",
+               "mavg_price": "71.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2886",
                "name": "兆豐金",
-               "price": "54.80",
-               "mavg_price": "51.96"
+               "price": "54.10",
+               "mavg_price": "54.10"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2887",
                "name": "台新新光金",
-               "price": "42.25",
-               "mavg_price": "41.91"
+               "price": "41.70",
+               "mavg_price": "41.70"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2891",
                "name": "中信金",
-               "price": "75.80",
-               "mavg_price": "71.65"
+               "price": "75.00",
+               "mavg_price": "75.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2892",
                "name": "第一金",
-               "price": "44.60",
-               "mavg_price": "40.83"
+               "price": "43.65",
+               "mavg_price": "43.65"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2903",
                "name": "遠百",
-               "price": "21.85",
-               "mavg_price": "22.06"
+               "price": "22.00",
+               "mavg_price": "22.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "2912",
                "name": "統一超",
                "price": "225.50",
-               "mavg_price": "219.66"
+               "mavg_price": "225.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3008",
                "name": "大立光",
-               "price": "5430.00",
-               "mavg_price": "6432.37"
+               "price": "5490.00",
+               "mavg_price": "5490.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3017",
                "name": "奇鋐",
-               "price": "3095.00",
-               "mavg_price": "3323.95"
+               "price": "3060.00",
+               "mavg_price": "3060.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3034",
                "name": "聯詠",
-               "price": "575.00",
-               "mavg_price": "562.89"
+               "price": "571.00",
+               "mavg_price": "571.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3037",
                "name": "欣興",
-               "price": "989.00",
-               "mavg_price": "1161.26"
+               "price": "997.00",
+               "mavg_price": "997.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3045",
                "name": "台灣大",
-               "price": "133.50",
-               "mavg_price": "127.89"
+               "price": "133.00",
+               "mavg_price": "133.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3231",
                "name": "緯創",
-               "price": "183.50",
-               "mavg_price": "187.50"
+               "price": "181.50",
+               "mavg_price": "181.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3443",
                "name": "創意",
-               "price": "7635.00",
-               "mavg_price": "7958.95"
+               "price": "7285.00",
+               "mavg_price": "7285.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3702",
                "name": "大聯大",
-               "price": "108.50",
-               "mavg_price": "116.11"
+               "price": "105.50",
+               "mavg_price": "105.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "3711",
                "name": "日月光投控",
-               "price": "668.00",
-               "mavg_price": "702.26"
+               "price": "674.00",
+               "mavg_price": "674.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "4904",
                "name": "遠傳",
-               "price": "114.00",
-               "mavg_price": "109.74"
+               "price": "113.50",
+               "mavg_price": "113.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "4938",
                "name": "和碩",
                "price": "102.50",
-               "mavg_price": "98.66"
+               "mavg_price": "102.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "5434",
                "name": "崇越",
-               "price": "559.00",
-               "mavg_price": "578.74"
+               "price": "548.00",
+               "mavg_price": "548.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "5871",
                "name": "中租-KY",
-               "price": "105.50",
-               "mavg_price": "106.63"
+               "price": "105.00",
+               "mavg_price": "105.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "5871A",
                "name": "中租-KY甲特",
                "price": "99.80",
-               "mavg_price": "99.90"
+               "mavg_price": "99.80"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "5876",
                "name": "上海商銀",
-               "price": "54.50",
-               "mavg_price": "52.11"
+               "price": "54.30",
+               "mavg_price": "54.30"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "5880",
                "name": "合庫金",
-               "price": "29.00",
-               "mavg_price": "27.40"
+               "price": "29.05",
+               "mavg_price": "29.05"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "6213",
                "name": "聯茂",
-               "price": "687.00",
-               "mavg_price": "767.00"
+               "price": "656.00",
+               "mavg_price": "656.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "6239",
                "name": "力成",
-               "price": "256.00",
-               "mavg_price": "281.79"
+               "price": "257.50",
+               "mavg_price": "257.50"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "6415",
                "name": "矽力*-KY",
-               "price": "502.00",
-               "mavg_price": "466.97"
+               "price": "501.00",
+               "mavg_price": "501.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "6515",
                "name": "穎崴",
-               "price": "4565.00",
-               "mavg_price": "5351.58"
+               "price": "4485.00",
+               "mavg_price": "4485.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "6669",
                "name": "緯穎",
-               "price": "1810.00",
-               "mavg_price": "2030.26"
+               "price": "1820.00",
+               "mavg_price": "1820.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "6770",
                "name": "力積電",
-               "price": "66.60",
-               "mavg_price": "69.90"
+               "price": "65.30",
+               "mavg_price": "65.30"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "8046",
                "name": "南電",
-               "price": "1190.00",
-               "mavg_price": "1375.26"
+               "price": "1185.00",
+               "mavg_price": "1185.00"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "9904",
                "name": "寶成",
-               "price": "25.80",
-               "mavg_price": "25.63"
+               "price": "25.85",
+               "mavg_price": "25.85"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "9910",
                "name": "豐泰",
-               "price": "69.80",
-               "mavg_price": "68.26"
+               "price": "68.90",
+               "mavg_price": "68.90"
           },
           {
-               "date": "1151030",
+               "date": "1151102",
                "symbol": "9945",
                "name": "潤泰新",
-               "price": "29.05",
-               "mavg_price": "29.32"
+               "price": "28.70",
+               "mavg_price": "28.70"
           }
      ]
 }
